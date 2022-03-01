@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sealed fountaine opened to the faithfull, and their seed. Or, a short treatise, shewing, that some infants are in the state of grace, and capable of the seales, and others not. Being the chief point, wherein the separatists doe blame the Anabaptists. By John Wilkinson, prisoner at Colchester, against John Morton prisoner at London.</title>
+            <author>Wilkinson, John, of Bernards Inne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96525</idno>
+            <idno type="STC">Wing W2243</idno>
+            <idno type="STC">Thomason E1205_2</idno>
+            <idno type="STC">ESTC R208780</idno>
+            <idno type="EEBO-CITATION">99867703</idno>
+            <idno type="PROQUEST">99867703</idno>
+            <idno type="VID">120025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120025)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 168:E1205[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sealed fountaine opened to the faithfull, and their seed. Or, a short treatise, shewing, that some infants are in the state of grace, and capable of the seales, and others not. Being the chief point, wherein the separatists doe blame the Anabaptists. By John Wilkinson, prisoner at Colchester, against John Morton prisoner at London.</title>
+                  <author>Wilkinson, John, of Bernards Inne.</author>
+               </titleStmt>
+               <extent>[14], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou: 17 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+               <term>Anabaptists --  Controversial literature --  Early works to 1800.</term>
+               <term>Separatists --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120025:1" rendition="simple:additions"/>
+            <p>THE SEALED FOVNTAINE opened to the Faith<g ref="char:EOLhyphen"/>full, and their Seed. OR, A ſhort Treatiſe, ſhewing, that ſome <hi>Infants</hi> are in the ſtate of Grace, and capable of the <hi>ſeales,</hi> and others not. Being the chief point, wherein the <hi>Separatiſts</hi> doe blame the <hi>Anabaptiſts.</hi>
+            </p>
+            <p>By JOHN WILKINSON, <hi>Priſoner at</hi> Colcheſter, <hi>againſt</hi> John Morton <hi>Priſoner at</hi> London.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:120025:2"/>
+            <p>
+               <figure>
+                  <head>Satis est cui contingit nitil am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lius opiat.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="Scripture">
+            <pb facs="tcp:120025:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:120025:3"/>
+            <q>
+               <bibl>
+                  <hi>ISA.</hi> 59. 21.</bibl>
+               <p>As for me, this is my Covenant with them ſaith the Lord; My Spirit that is upon thee, and my words which I have put in thy mouth, ſhall not depart out of thy mouth nor out of the mouth of thy ſeed; nor out of the mouth of thy ſeeds ſeed, ſaith the Lord, from henceforth, and for ever.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>ISA.</hi> 65. 23.</bibl>
+               <p>They ſhall not labour in vaine nor bring forth for trouble: for they are the ſeed of the bleſſed of the Lord, and their off ſpring with them.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>ACT.</hi> 2. 38.</bibl>
+               <p>The promiſe is unto you, and to your Chil<g ref="char:EOLhyphen"/>dren, and to all that are afarre off, even as many as the Lord our God ſhall call.</p>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:120025:3"/>
+            <head>To all that love the <hi>Lord Jeſus</hi> in Sincerity, and fervently deſire a fur<g ref="char:EOLhyphen"/>ther revealing of the myſteries of his Kingdome, <hi>Grace, Mercy</hi> and <hi>Peace</hi> be multiplyed, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Eloved Brethern and Siſters in our only Lord and Sa<g ref="char:EOLhyphen"/>viour <hi>Jeſus Chriſt:</hi> This little Treatiſe being compoſed by one of my ancient Brethren depar<g ref="char:EOLhyphen"/>ted in the Faith, was left in my cuſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>die for the publicke good: and ther<g ref="char:EOLhyphen"/>fore conſidering how needfull it would be to be publiſhed rather then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bſcured, I thought none was more
+<pb facs="tcp:120025:4"/> fit to have the ſpeciall uſe thereof then thoſe who have the ſpirit of diſcerning, through the knowledge of the Word of Truth, whereby to perceive the manifeſt difference be<g ref="char:EOLhyphen"/>tween <hi>Babels</hi> Brats, and <hi>SIONS</hi> Babes; for the which reſpect I have preſented it chiefly unto you, intreat<g ref="char:EOLhyphen"/>ing you to peruſe it with under<g ref="char:EOLhyphen"/>ſtanding, and weigh it with diſcre<g ref="char:EOLhyphen"/>tion; and as the Noble Men of <hi>Berea</hi> did, ſo doe yee, ſearch and examine whether the ſcope there<g ref="char:EOLhyphen"/>of be agreeable to the Scriptures or no.</p>
+            <p>There are many which ſtrive to en<g ref="char:EOLhyphen"/>ter into the Kingdome of heaven, but are not able, <note n="a" place="margin">Luke 13, 24.</note> becauſe they want Faith <note n="b" place="margin">Heb, 18, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> which is the gift of <hi>GOD</hi> 
+               <note n="c" place="margin">Ephe, 2, 8.</note> 
+               <hi>GOD</hi> can give his guifts to whom he pleaſeth, <note n="d" place="margin">Luk, 12, 2.</note> but he will not doe all which he can doe <note n="e" place="margin">Exo, 19, 19</note> though he can doe all that he will doe. <note n="f" place="margin">Mat, 19, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6</note> To thinke
+<pb facs="tcp:120025:4"/> it any deficiencie in <hi>GOD,</hi> becauſe he doth not, or unbountifullneſſe, be<g ref="char:EOLhyphen"/>cauſe he will not, argues a carnall and ſenſuall diſpoſition. <hi>GOD</hi> could have ſpared the infants of the floud from dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wning, <note n="g" place="margin">Gen, 7, 4.</note> and <hi>Sodoms</hi> ſeed from burning. <note n="h" place="margin">Gen. 18. 24,</note> He could have ſpared the firſt borne of the Aegyp<g ref="char:EOLhyphen"/>tians, <note n="i" place="margin">Ex, 12, 29</note> and might have left out that Commandement where the Chil<g ref="char:EOLhyphen"/>dren of Idolaters were commanded to be ſlain with their Idolatrous Pa<g ref="char:EOLhyphen"/>rents: <note n="k" place="margin">1 Sam. 1 3.</note> but he would not, becauſe it ſtood not with his Juſtice; it was his will and pleaſure ſo to doe, who doth what he will in heaven and in earth, <hi>&amp;c.</hi> and who dare controle him? <note n="l" place="margin">Dan. 4, Pſal, 135,</note> 
+               <hi>GOD</hi> is as good as his word, who hath in all ages from the be<g ref="char:EOLhyphen"/>ginning viſited the ſinnes of the Fa<g ref="char:EOLhyphen"/>thers upon the Children, unto the third and fourth generation, and will doe ſo to the end, <note n="m" place="margin">Exo, 10</note> 
+               <hi>GODS</hi> two wit<g ref="char:EOLhyphen"/>neſſes <note n="*" place="margin">Iſa, 29, Pſal, 119 105,</note>
+               <pb facs="tcp:120025:5"/> can produce many examples hereof: we have the Law Prophe<g ref="char:EOLhyphen"/>ſies and Goſpel, whoſe teſtimony none ought to refuſe under paine of dam<g ref="char:EOLhyphen"/>nation.</p>
+            <p>But it is the property of thoſe who are unlearned (in <hi>God</hi>'s Law) and unſtable (in their wayes <note n="*" place="margin">Iam. 1. 8</note>) to wreſt the Scripture to their own deſtru<g ref="char:EOLhyphen"/>ction: <note n="n" place="margin">2 Pet, 3, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6</note> or elſe ſeek to reſtraine the power and efficacie thereof, much like to the foure Angels which <hi>John</hi> ſaw ſtand upon the foure corners of the Earth to hold the foure winds of the Earth that they ſhould not blow, <hi>Rev.</hi> 7. 1. Of this ſort are thoſe which would ſeek to withold the Covenant of the Goſpel from <note place="margin">Ezra 9, 2. Pſal, 128,</note> holy Infants, <hi rend="sup">o</hi> the young <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>live plants * of beleeving Parents; it is apparent that to plucke up theſe plants is to plucke up the plants which the right hand of our heavenly Father hath
+<pb facs="tcp:120025:5"/> planted, <note n="p" place="margin">Mat 19, 13, 14, 15.</note> which are the Children of thoſe Parents upon whom <hi>GOD</hi> hath promiſed to write his owne name, and the name of his holy Citty.</p>
+            <p>That juſt <hi>God</hi> which did break off the naturall branches, the Iewes for unbeliefes ſake, together with <note place="margin">Exod, 15, 25,</note> their ſeed, the ſame <hi>God</hi> hath by his own right hand graffed us in their ſtead, <note n="q" place="margin">Rom, 11, 19, 20,</note> and ſhall we preſume to imagine that he forgot our ſeed? <hi>Moſe</hi>'s who was guided by the Spi<g ref="char:EOLhyphen"/>rit of <hi>God</hi> forgot not the ſeed of the faithfull: <note n="r" place="margin">Deut, 32,</note> ſure I am <hi>(Chriſt</hi> being more faithfull in his Houſe then ever <hi>Moſes</hi> was, <note n="ſ" place="margin">Heb, 3, 2, 3.</note> hath not made a ſeparation between the faithfull and their ſeed: but remembreth his Covenant (ſaying) <hi>I will be a GOD unto thee, and unto thy Seed,</hi> &amp;c. <note n="t" place="margin">Gen, 17, 7</note> ſeeing that <hi>God</hi> is their <hi>God,</hi> they are his People; and ſuch are viſi<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:120025:6"/> members of <hi>Chriſts</hi> Church, which is his Body, and Mount Sion, in which place <hi>GOD</hi> hath promiſed the bleſſing, even life unto eternity <note n="u" place="margin">Pſa, 133, 3</note>.</p>
+            <p>Therefore in what a wofull condition are thoſe who ſay all In<g ref="char:EOLhyphen"/>fants are in one <note n="*" place="margin">Ia, 2, 13,</note> condition, and that no Infants are under the Covenant of Grace: herein they ſeek to bind that which <hi>God</hi> never bound, and to looſe that which <hi>God</hi> never loo<g ref="char:EOLhyphen"/>ſed: <note place="margin">v He, 13, 8,</note> for <hi>Jeſus Chriſt</hi> is yeſterday, to day, and the ſame for ever. Thus when they have brought forth in outward action, that which they had in conception, it tends to the deſtruction of the Covenant of the Lord of glory, which is the bond of all Chriſtian communion and fel<g ref="char:EOLhyphen"/>lowſhip.</p>
+            <p>And thoſe which ſay that the Infants of Beleevers have no part in
+<pb facs="tcp:120025:6"/> this Covenant, let them tell us in what eſtate they be; if they ſay they are to be accounted in the ſtate of ſalvation, then they muſt needs grant that they are to be accounted within the Covenant of grace, to whom the outward priviledges of the Covenant doe belong <note n="w" place="margin">Rev, 22, 14.</note> If they ſay they are in the ſtate of damnati<g ref="char:EOLhyphen"/>on; and have no promiſe at all; but are as the Children whom <hi>GOD</hi> 
+               <note place="margin">2 Pet, 3, 20, 21, Iſa, 34, 9, 10.</note> deſtroyed with their wicked Parents, ſome with water, others with fire and brimſtone, <hi>&amp;c.</hi> I ſay and will affirme, that this their Doctrine hath ſprung from a bitter root: it tends to make the lives of all In<g ref="char:EOLhyphen"/>fants bitter, becauſe thereby they make bitter meanes of the pre<g ref="char:EOLhyphen"/>ſervation of the life of their ſoules.</p>
+            <p>In this they are like to the fallen Starre whoſe name was wormwood, which fell into the third part of the
+<pb facs="tcp:120025:7"/> Rivers and Fountaines of waters, and made them bitter. <note n="x" place="margin">Rev, 8, 10 11,</note> But there is a River (which alwayes runneth, and a Fountaine which alwayes floweth) the ſtreames therof maketh glad the City of <hi>GOD,</hi> 
+               <note n="y" place="margin">Pſal, 46, 5</note> by watering the Olive trees, upon which doe grow the Olive branches, which branches are the Infants of Beleevers, in whoſe life the Parents have joy, in whoſe death they have comfort; becauſe their mourning for them is mixed with hope, <note n="*" place="margin">1 Theſ, 4, 13,</note> and this their hope is grounded upon <hi>Gods</hi> everlaſting and unchangable promiſes <note n="z" place="margin">Acts 2, 39</note> made unto them in <hi>Chriſt,</hi> which is a motive to move them to love their heavenly Father, becauſe as he hath made them holy, ſo alſo hath he made their Children holy <note n="*" place="margin">1 Cor, 7, 14,</note> which are reconciled to God with their Parents: who are by the will of our heavenly Father ſancti<g ref="char:EOLhyphen"/>fied
+<pb facs="tcp:120025:7"/> in their life, bleſſed in their death, and ſhall alſo be glorified at their reſurrection: for the ſecond death ſhal have no power over them, <note place="margin">Deut, 33, 29</note> becauſe they are bleſſed, and holy, <note n="a" place="margin">Rev. 20, 6</note> having part in <hi>Chriſt</hi> who is the reſurrection and the life, <note n="b" place="margin">Iohn 11, 25,</note> to whom with the Father and the bleſſed Spirit be all glory, throughout all generations. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Your affectioned Brother in the Patience and Faith of the Saints, William Arthurbury.</signed>
+            </closer>
+         </div>
+         <div type="Scripture">
+            <head>Pſal. 37. 25</head>
+            <p>I have been young, alſo I am waxt old: and I have not ſeen the Juſt<g ref="char:EOLhyphen"/>man forſaken, and his ſeed ſeeking bread. 26. All the day, he ſheweth grace and lendeth: and his ſeed, are in the bleſſing.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:120025:8"/>
+            <pb n="1" facs="tcp:120025:8"/>
+            <head>A reproof of ſome things written by <hi>John Morton,</hi> and others of his Company and followers, to prove <hi>That Infants are not in the ſtate of Condemnation;</hi> And that ther<g ref="char:EOLhyphen"/>fore they are not to be Baptiſed.</head>
+            <byline>
+               <hi>By</hi> John Wilkinſon, <hi>a Priſoner in</hi> Colcheſter, <hi>for the Patience and Faith of the Saints.</hi> 1613.</byline>
+            <p>
+               <seg rend="decorInit">F</seg>IRST, they write of <hi>Infants,</hi> as if concerning <hi>ſalvation</hi> and <hi>damnation</hi> the eſtate of all <hi>Infants</hi> were alike, which is not true, but very erronious: for ſome <hi>Infants</hi> are in the eſtate of <hi>ſalvation;</hi> and thoſe ſo farre as they may be diſcerned, are to be <hi>baptized,</hi> for a teſtimony thereof. And others are in the eſtate of <hi>damnation;</hi> and theſe ſo farre as may be diſcerned, are not to be <hi>baptized.</hi>
+            </p>
+            <p>That ſome <hi>Infants</hi> are of the <hi>ſeed</hi> of the <hi>Serpent,</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome of the <hi>ſeed</hi> of the <hi>Woman,</hi> I preſume no reaſonable man will deny.</p>
+            <pb n="2" facs="tcp:120025:9"/>
+            <p>That <hi>God</hi> hath put <hi>enmity</hi> between thoſe two <hi>ſeeds</hi> from the beginning, is manifeſt <hi>Gen.</hi> 3. 15. &amp; 4. 8. &amp; 25. 22. The <hi>ſeed</hi> of the <hi>Woman</hi> was <hi>adopted</hi> in <hi>Chriſt</hi> before the world was, <hi>Epheſ.</hi> 1. 5. and were given him of his Father for an <hi>heritage, Ioh.</hi> 17. 6, 10. and that to this end that he ſhould give unto them <hi>eternall life, Ioh.</hi> 17. 2. and that he ſhould not looſe one of them, ver. 12. but that he ſhould raiſe them up in the laſt day, <hi>Ioh.</hi> 6. 44, 54.</p>
+            <p>Now therfore it is a ſure <hi>truth,</hi> that not any that be of the <hi>ſeed</hi> of the <hi>Woman</hi> are at any time in the ſtate of <hi>damnation;</hi> and that ſome <hi>Inſants</hi> are of the <hi>ſeed</hi> of the <hi>Woman,</hi> no man that hath any <hi>illumination</hi> will deny.</p>
+            <p>Concerning ſuch therfore, their ſaying is <hi>true,</hi> that <hi>Infants</hi> are not under the ſtate of <hi>damnation;</hi> to wit, thoſe that be of the <hi>ſeed</hi> of the <hi>Woman.</hi>
+            </p>
+            <p>Againe, it is not to be doubted, but that ſome <hi>Inſants</hi> are or the <hi>ſeed</hi> of the <hi>Serpent,</hi> and ſuch are even enemies to the <hi>ſeed</hi> of the <hi>Woman,</hi> and thoſe were known to <hi>God</hi> before the world was; and for all ſuch <hi>condemnation</hi> was prepared from the beginning; and they are reſerved of <hi>God</hi> unto the day of <hi>vengeance;</hi> and ſuch are never but in the ſtate of <hi>damnation.</hi>
+            </p>
+            <p>Thus therfore it may appeare, that to ſay that <hi>Infants</hi> are not in the ſtate of <hi>condemnation,</hi> in reſpect of ſome <hi>Infants</hi> is true, and in reſpect of other <hi>Infants,</hi> is <hi>falſe.</hi>
+            </p>
+            <p>In that therfore they ſpeake of <hi>Infants</hi> indefinitely, without noteing whether they ſpeak of all <hi>Infants,</hi> or but of ſome, they deale looſly; for if they ſpeak of all, they ſpeak <hi>untruth;</hi> if they ſpeak but of ſome, they doe but trifle But in that they ſpeak of <hi>Inſtants,</hi> as though they were all of one condition, they bewray manifeſt ignorance concerning the <hi>truth,</hi> which is that ſome <hi>Infants</hi> are in the ſtate of <hi>condem<g ref="char:EOLhyphen"/>nation,</hi> and ſome are not: and therfore they which ſpeake of <hi>Infants</hi> in this caſe, ſhould not ſpeak indefinitely, but by diſtinction.</p>
+            <pb n="3" facs="tcp:120025:9"/>
+            <p>Secondly, to free <hi>Infants</hi> from being under the ſtate of <hi>condemnation,</hi> they imagine them to be without ſinne. But if <hi>Infants</hi> were without ſinne, then ſhould <hi>death</hi> have no <hi>power</hi> over them; for <hi>death</hi> is the <hi>reward</hi> of ſinne, <hi>Rom</hi> 6. 23. And <hi>the ſame ſoule that ſinneth ſhall dye, Ezek.</hi> 18. 4. 20. Seeing therfore <hi>death</hi> hath <hi>power</hi> over <hi>Infants,</hi> it is a plain caſe, that <hi>Infants</hi> are not without ſinne as they may ima<g ref="char:EOLhyphen"/>gine.</p>
+            <p>Thirdly, the ground from which they gather <hi>Infants</hi> to be without ſinne is this, that <hi>Infants</hi> have <hi>tranſgreſſed</hi> no Law of <hi>God,</hi> becauſe they are uncapable of any.</p>
+            <p>In this they ſhoot ſhort, for it doth not follow, that be<g ref="char:EOLhyphen"/>cauſe <hi>Infants</hi> have not <hi>tranſgreſſed</hi> as they are <hi>Infants</hi> ther<g ref="char:EOLhyphen"/>fore they have not <hi>tranſgreſſed</hi> at all. They <hi>tranſgreſſed</hi> be<g ref="char:EOLhyphen"/>fore they were <hi>Infants,</hi> that is to ſay, in the loynes of <hi>Adam,</hi> even as <hi>Levi</hi> payed Tithes in the loynes of <hi>Abraham, Heb.</hi> 17. 9, 10.</p>
+            <p>And if <hi>Infants</hi> be without ſinne, then let them tell me how <hi>ſinne by one man entred into the world,</hi> as the Apoſtle teſtifieth, <hi>Rom.</hi> 5. 12. 19. Till then let this be the concluſion, That as that which is bred of a <hi>Serpent,</hi> is not without ve<g ref="char:EOLhyphen"/>nome, ſo that which is bred of a <hi>ſinner</hi> is not without ſin.</p>
+            <p>And thus is diminiſhed all that which they have ſaid, to prove, that <hi>God</hi> hath given no Law to <hi>Infants,</hi> for all <hi>In<g ref="char:EOLhyphen"/>fants</hi> were in the loynes of <hi>Adam</hi> when the Law was given unto him, and when he <hi>tranſgreſſed</hi> the ſame; ſundry broken <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reames</hi> they have whereby they are ſtrengthened in their <hi>errors.</hi>
+            </p>
+            <p>Firſt, they conceive that becauſe <hi>Infants</hi> were not alive in their own perſons apart from <hi>Adam</hi> when the Law was given him, that therfo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Law given to <hi>Adam</hi> doth no<g ref="char:EOLhyphen"/>thing at all concerne <hi>Infants,</hi> but was only given to <hi>Adam,</hi> and <hi>Hevah.</hi> But they ſhould conſider, Firſt, that <hi>Adam</hi> and <hi>Hevah</hi> were ſuch publicke perſons, as they not only repre<g ref="char:EOLhyphen"/>ented
+<pb n="4" facs="tcp:120025:10"/> all mankind; but were all mankind both when the Law was given unto them, &amp; when they <hi>tranſgreſſed</hi> the ſame and that therfore the Law given to them was given to all mankind in them; and they tranſgreſſing that Law, all man<g ref="char:EOLhyphen"/>kind tranſgreſſed the ſame in them, as before I have ſayd.</p>
+            <p>Againe, they ſhould conſider, that if <hi>Infants</hi> had been alive in their own perſons diſtinct from <hi>Adam</hi> when the Law was given, and he <hi>trangreſſed</hi> it, then could not <hi>Adam</hi> ſinne have hurt them, <hi>for the ſonne ſhall not die for the Fa<g ref="char:EOLhyphen"/>ther:</hi> but when a man is a ſinner againſt <hi>God,</hi> as <hi>Adam</hi> was, <hi>God</hi> may juſtly when he makes him a Father, make him the Father of a ſinner, as he did <hi>Adam,</hi> and ſo <hi>viſit the ſinnes of the Fathers upon the Children unto the third and fourth gene<g ref="char:EOLhyphen"/>ration,</hi> Exod. 20. 5.</p>
+            <p>Another conceit they have, out of which the former ari<g ref="char:EOLhyphen"/>ſeth, and that is this, that foraſmuch as the <hi>Law hath domi<g ref="char:EOLhyphen"/>nion over a man ſo long as he liveth,</hi> therfore the Law given to <hi>Adam</hi> concerneth not <hi>Infants,</hi> becauſe they were not then alive.</p>
+            <p>But if this be a ſound collection, let them tell me how ſinne came into the world? and how <hi>God viſites the ſinners of the Fathers upon the Children?</hi> As for the <hi>dominion</hi> which the Law hath over a man ſo long as he <hi>liveth,</hi> it is like the <hi>domi<g ref="char:EOLhyphen"/>nion</hi> which a man hath over his Wife; which is, that ſhe may not be unto another Man ſo long as her Husband liv<g ref="char:EOLhyphen"/>eth: but if her Husband be dead, then may ſhe lawfully be unto another man. So man is under the <hi>dominion</hi> of the Law untill in the body of <hi>Chriſt</hi> 'he be dead unto the Law, and ſo freed from the Law to be unto another, to wit <hi>Chriſt.</hi> This is that which the Apoſtle ſaith, <hi>Rom.</hi> 7. 1. 6.</p>
+            <p>And now I pray you, who being of good underſtanding, would have gathered from this place, that becauſe Infants were not alive when the Law was given to <hi>Adam;</hi> therfore that Law had no power over them?</p>
+            <pb n="5" facs="tcp:120025:10"/>
+            <p>Another nice conceit they have, that becauſe the ſoule is given of <hi>God,</hi> that therfore the body and ſoule in every In<g ref="char:EOLhyphen"/>fant is firſt created apart, and afterwards joyned together in one.</p>
+            <p>And out of this they gather againe, that the ſoule coming from <hi>God</hi> muſt needs be good, and therfore without ſinne untill it be joyned with the body, and then have a Law gi<g ref="char:EOLhyphen"/>ven, and finally tranſgreſſe that Law. Out of theſe principles it ſeemeth to them, that they may undeniably conclude, that Infants are without ſinne.</p>
+            <p>How the body and ſoule come together in Infants, I dare not diſpute, that paſſeth my capacitie; But if this be true which they imagine, that Infants are without ſinne, how comes it to paſſe that all Infants as they grow up to diſcerne things, doe bring forth the fruits of ſinne? Whence comes it that they luſt after <hi>evill,</hi> and <hi>tranſgreſſe</hi> the Law? It is a ſure <hi>truth,</hi> that if Infants were without ſinne, they could not bring forth the fruits therof.</p>
+            <p>Seeing therfore all Infants which live and grow up doe bring forth the <hi>fruits</hi> of ſinne, it may not with <hi>truth</hi> be de<g ref="char:EOLhyphen"/>nyed, but that Infants have the <hi>ſeed</hi> and <hi>root</hi> of Sin cleaving to their nature, which maketh them by <hi>neture the Children of wrath,</hi> Eph. 2. 3.</p>
+            <p>Thirdly, they conceive becauſe Infants have not under<g ref="char:EOLhyphen"/>ſtanding, to diſcerne between <hi>good and evil;</hi> Therfore the Law and ſinne concerneth them no more then it doth the unreaſonable creatures.</p>
+            <p>This is a very unreaſonable collection to imagine Infants which are a part of mankind, and are ſprung out of <hi>Adams</hi> loynes, to be free from the taint and pollution of <hi>Adams</hi> ſinne; as the bruit creatures of other kinds be; doth any crea<g ref="char:EOLhyphen"/>ture but mankind only grow up tobe an <hi>idolater, blaſphemer, adulterer,</hi> &amp;c.</p>
+            <p>If Infants were without ſinne as other creatures be, man<g ref="char:EOLhyphen"/>kind
+<pb n="6" facs="tcp:120025:11"/> would no more become ſuch, then other creatures do; Seeing therfore Infants grow up to be ſuch, it is manifeſt the root of Sin is in their <hi>nature.</hi>
+            </p>
+            <p>Laſtly, they gather, that if Infants we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not without ſinne <hi>Chriſt</hi> would not have ſaid to his Diſciples, <hi>That except they ſhould convert, and become as a iittle Child, they ſhould not enter into the Kingdome of heaven,</hi> Neither have put his <hi>hands on them and bleſſed them,</hi> if they had not been alwayes without ſinne.</p>
+            <p>If this collection be good, then none can enter into the Kingdome of Heaven, except they have been alwayes with<g ref="char:EOLhyphen"/>out ſinne, and ſuch as never <hi>tranſgreſſed</hi> any Law; for firſt they imagine Infants to be without ſinne, as being ſuch as have tranſgreſſed no Law.</p>
+            <p>And Secondly, that in this reſpect, <hi>Chriſt</hi> ſaid to his Diſ<g ref="char:EOLhyphen"/>ciples, <hi>that except they be converted and become as a little child</hi> (that is, <hi>without ſinne,</hi> and ſuch as have tranſgreſſed no Law, <hi>they could not enter into the Kingdome of heaven.</hi>
+            </p>
+            <p>Thus, thick is the darknes wherewith theſe men are over<g ref="char:EOLhyphen"/>whelmed, and yet they imagine that they only are in the <hi>true light,</hi> and all that are not of their mind are in <hi>darkneſſe.</hi>
+            </p>
+            <p>But that which our Saviour teacheth concerning <hi>conver<g ref="char:EOLhyphen"/>ting</hi> and becoming like <hi>little children,</hi> that his Diſciples ſhould not be <hi>proud,</hi> nor <hi>highminded</hi> to exalt themſelves, and deſire to be <hi>great</hi> and of high degree: but that they ſhould ſubmit themſelves in all things unto <hi>God,</hi> as Children doe to thoſe whom they ſtand in awe of; This is that which <hi>Chriſt</hi> taught his Diſciples, and this is that which all muſt doe which enter into the Kingdome of Heaven, even ſubmit themſelves under the mighty hand of <hi>God</hi> that he may exall them.</p>
+            <p>Againſt this conceit of Infants, being without ſinne, it hath been objected, that <hi>Adam</hi> was a common root to all mankind, and that therefore the Law given to him (all man<g ref="char:EOLhyphen"/>kind
+<pb n="7" facs="tcp:120025:11"/> being in him) was given to all mankind, and likewiſe in him tranſgreſſed by all mankind, by meanes whereof, all Infants come from their Parents polluted with ſinne, ac<g ref="char:EOLhyphen"/>cording as <hi>David</hi> confeſſed of himſelfe that (as he was con<g ref="char:EOLhyphen"/>ceived in ſinne, ſo) <hi>he was borne in iniquity.</hi>
+            </p>
+            <p>To this they Anſwer, that <hi>Adam</hi> was a common root, but not to bring any ſoule to die for his breaking of the Com<g ref="char:EOLhyphen"/>mandement.</p>
+            <p>This anſwer is not to the purpoſe; the objection is, <hi>that all mankind ſinned in</hi> Adam, <hi>and come from his loynes tainted with ſinne, and ſo die, not for a ſin that</hi> Adam <hi>committed apart<g ref="char:EOLhyphen"/>by himſelfe, without them, but for the ſin wherewith they were polluted in him.</hi>
+            </p>
+            <p>To remove therfore this objection, they muſt deny that <hi>Adams</hi> ſinne did pollute him, and alſo aſfirme, that mankind proceeded from him as ſree and cleane from ſin as if he had not ſinned at all.</p>
+            <p>But this they cannot doe, and therfore cannot remove this Objection.</p>
+            <p>There is none of good and ſound underſtanding, that will affirme that where there is Father and Sonne, and the Fa<g ref="char:EOLhyphen"/>ther ſinneth, and the Sonne ſinneth not, or the Sonne ſin<g ref="char:EOLhyphen"/>neth, but the Father ſinneth not, that in this cauſe the Son ſhall die for the Fathers <hi>iniquity,</hi> or the Father for the Sons <hi>iniquity,</hi> their anſwere therfore proceeds either of <hi>ignorance</hi> or <hi>perverſneſſe.</hi>
+            </p>
+            <p>But concerning this point, they have another ſtrange con<g ref="char:EOLhyphen"/>ceipt, which is, that <hi>Adam</hi> ſhould have been conſumed if <hi>Chriſt</hi> had not been provided: but <hi>Chriſt</hi> being provi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, his judgement of being conſumed was changed into this judge<g ref="char:EOLhyphen"/>ment, <hi>Curſed is the earth for thy ſake,</hi> &amp;c. <hi>Gen.</hi> 3. 17 19. This is a pretty dreame, and it comes of this, that <hi>Adam</hi> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed not a bodily death the ſame day that he eat of the forbidden fru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t.</p>
+            <pb n="8" facs="tcp:120025:12"/>
+            <p>But they ſhould know that there are more ſorts of death then one; which if they did, then would they not gather, that becauſe <hi>Adam</hi> died not a bodily death, therefore he died not at all, this is too Childiſh for thoſe which would be teachers.</p>
+            <p>
+               <hi>But let God be true and every man a lyer: Adam</hi> by dying, died the ſame day that he ſinned, not a bodily, but a ſpirituall death, under which death he lay untill the pro<g ref="char:EOLhyphen"/>miſe that the Womans ſeed ſhould deſtroy the <hi>Serpents</hi> power, quickened and revived him againe.</p>
+            <p>That Curſe which is layd upon the earth, and the labour which is layd upon <hi>Adam,</hi> was to bring man to a further knowledge of his owne miſery, and <hi>Gods</hi> mercy and juſtice.</p>
+            <p>Bodily death is appointed to diſſolve man into duſt and aſhes, that from thence hee may riſe unto an immortall and unchang<g ref="char:EOLhyphen"/>able
+<pb n="9" facs="tcp:120025:12"/> eſtate either of glory or confuſion.</p>
+            <p>Their imagination therefore that <hi>Adam</hi> ſhould have been conſumed, if <hi>Chriſt</hi> had not been provided, is but a dreame which will not ſtand with the ſtabilitie of the Eternall, whoſe decree is immutable, nei<g ref="char:EOLhyphen"/>ther altereth hee the thing that proceedeth out of his mouth.</p>
+            <p>Concerning <hi>Infants</hi> they have found at the laſt, that by <hi>Adams</hi> ſinne they have upon them the Corruption thereof, and that in ſuch ſort, as that thereby they are made Subject to death: here meeting the truth in their way (unſought for) and ſeeing glimſe of it, ſo dazeleth their eyes, that a increaſeth their blindneſſe: for firſt their imagine that <hi>Infants</hi> are not otherwiſe cory rupted with <hi>Adams</hi> ſinne, nor made ſub<g ref="char:EOLhyphen"/>ject to death then other creatures are an<g ref="char:EOLhyphen"/>d that though Infants be ſubject to death, y<g ref="char:EOLhyphen"/>et not to be caſt into hell fier.</p>
+            <p>For the firſt, they ſhould know that there is as much difference betweene the Corruption that is in <hi>Infants</hi> by the
+<pb n="10" facs="tcp:120025:13"/> meanes of <hi>Adams</hi> ſin, and the corruption that other crea<g ref="char:EOLhyphen"/>tures are ſubject unto, as there is between a young Serpent venemous by nature, and that which is ſtung or invenomed by the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iting of a Serpent.</p>
+            <p>The poſterity of <hi>Adam</hi> have a luſt to ſin, the <hi>creature</hi> is ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bject to the vanity of mans abuſe unto evill, not of its own accord, <hi>Rom.</hi> 8. 20. In this therfore their apprehenſion is too groſſe to conceive that Infants are no otherwiſe corrup<g ref="char:EOLhyphen"/>ted with <hi>Adams</hi> ſin then other <hi>creatures</hi> are,</p>
+            <p>For the Second, they ſho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld know that out of <hi>Adam</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſprung two contrary <hi>ſeeds,</hi> fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was prepared two contrary conditions before the world was; and therfore all Infants are not under one and the ſame. ſtate &amp; condition, but ſome are u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der the ſtate of damnation in hell, and ſome are under the ſtate of ſalvation in heaven, and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at from the wombe: though they cannot tell how to deny this, yet will they not reſt, but imagine ſtill that condemnation comes by ſome other means then by <hi>Adams</hi> ſault, for elſe think they <hi>God</hi> could not be juſt.</p>
+            <p>Converning the point of <hi>Adams</hi> fault, their reſolution is, that it came on all men to condemnation, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut how ſo to cor<g ref="char:EOLhyphen"/>rupt their <hi>natures,</hi> that when the Commandement comes, they cannot obey and live, but ſin and dye.</p>
+            <p>Here the <hi>truth</hi> hath met them again, and they have looked upon her, but have looſed her againe, and themſelves alſo: for at the Firſt, Infants were not without ſinne; but now their nature is ſo corrupt, that when the Commandement comes, they cannot obey and live, but ſin and die. And wher<g ref="char:EOLhyphen"/>ſore? that let the Apoſtle anſwer, <hi>it is becauſe ſin dwels in them</hi> Rom. 7. 17. 20. If <hi>ſin</hi> dwell in them, how then are they without <hi>ſin?</hi> Thus by wandring they have loſt themſelvs.</p>
+            <p>The <hi>truth</hi> they have looſed, by miſtaking <hi>Paul</hi> where he ſaith that once hee was alive without the Law; for out of this they gather, that <hi>Paul</hi> was no ſinner, till the Com<g ref="char:EOLhyphen"/>mandement
+<pb n="11" facs="tcp:120025:13"/> came, and they confirme themſelves in this er<g ref="char:EOLhyphen"/>rour, by miſunderſtanding another <hi>Scripture;</hi> namely that whatſoever the Law ſaith, it ſaith to them that are un<g ref="char:EOLhyphen"/>der the Law. And they are further confirmed in this by the miſtaking of a third Scripture, which ſaith, <hi>That ſinne is not imputed whileſt there is no Law.</hi>
+            </p>
+            <p>Out of theſe they gather, that Infants are without ſinne untill they know the Law, and break it.</p>
+            <p>But <hi>Paul</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s no Patron of this opinion, it was no part of his Doctrine, that whileſt <hi>he was without Law, he was with<g ref="char:EOLhyphen"/>out ſin:</hi> but this is that which he teacheth, <hi>that when he was without Law, he was without the knowledge of ſin,</hi> becauſe the knowledge of <hi>ſin</hi> comes by the Law: and the reaſon of this is, becauſe <hi>without the Law ſin is dead,</hi> that is, hath no power to wound and kill the Conſcience: but the Conſcience is quiet and at peace, notwithſtanding ſin untill the Law come, for as <hi>the ſting of ſin is death, ſo the ſtrength of ſin is the Law.</hi> This is that which <hi>Paul</hi> teacheth.</p>
+            <p>And it doth not follow that becauſe <hi>ſin</hi> is dead in a man, untill the Law come that therfore there is no <hi>ſin</hi> in him: for if <hi>ſin</hi> were not in him, how ſhould he find it by the com<g ref="char:EOLhyphen"/>ing of the Law; in this therfore they underſtand the Apoſtle very childiſhly and againſt all reaſon: for where he ſaith, <hi>That he found by the Law that ſin dwelt in him,</hi> they under<g ref="char:EOLhyphen"/>ſtand him to the clean contrary, <hi>that ſin was not in him.</hi>
+            </p>
+            <p>And as in this, they miſunderſtand, ſo doe they in this, that the Law ſpeaketh to thoſe which be under the Law.</p>
+            <p>Out of this they gather, that a man muſt know the Law before he be under it, and he muſt be under the Law and tranſgreſſe it before he have <hi>ſin:</hi> ſo that untill a man know the Law and tranſgreſſe it, he is without <hi>ſin:</hi> wheras indeed, the tranſgreſſion of the Law is but the finiſhing and bring<g ref="char:EOLhyphen"/>ing forth of <hi>ſin,</hi> conceived before of luſt, which as an harlot conſenteth to the tempter, and bringeth forth <hi>tranſgreſſion, I am.</hi> 1. 15</p>
+            <pb n="10" facs="tcp:120025:14"/>
+            <p>The Apoſtle in ſaying, <hi>that whatſoever the Law ſaith, it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith it to thoſe that be under the Law:</hi> doth it to prove that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe things which are rehearſed from the tenth verſe of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hird Chapter to the <hi>Romans</hi> unto the eighteenth verſe, are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue concerning the Iews, and that therfore the Iewes were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder <hi>ſin,</hi> together with the Gentiles; and that all the world <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re under condemnation, verſe 19:</p>
+            <p>Now therfore if Infants be a part of the world, then are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey under <hi>condemnation.</hi> The Apoſtle ſaith, not that a man is without <hi>ſin</hi> till he be under the Law, but he ſaith that the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w convinceth all that be under it of <hi>ſin,</hi> which could not be, if <hi>ſin</hi> were not in them.</p>
+            <p>Here therfore they ſhoot farre ſhort of the Apoſtles mark, he concludes the whole world to be under <hi>condemnation,</hi> and proves it by the Law. And they imagine that when the Law comes, it finds thoſe to whom it comes to be without <hi>ſin</hi> and free from <hi>condemnation.</hi> So that ſtill, where th' Apo<g ref="char:EOLhyphen"/>ſtle ſaith one thing, they underſtand him of another thing; yea to the clean contrary. The <hi>Lord</hi> open their eyes that they may ſee it.</p>
+            <p>The third Scripture which they pervert is this, <hi>That ſin is not imputed whilſt there is no Law,</hi> Rom. 5. 13.</p>
+            <p>Out of this they gather, that untill the Law be known and tranſgreſſed, there is no <hi>ſin.</hi>
+            </p>
+            <p>But the Apoſtle ſaith to the contrary, <hi>That ſin was in the world even unto the Law,</hi> though <hi>ſin</hi> was reckoned no <hi>ſin</hi> ſo long as there was no Law: Yet that <hi>ſin</hi> was in the world though not reckoned of, as may appeare by this, That death Reigned from <hi>Adam</hi> unto <hi>Moſes,</hi> which it could not have done, if <hi>ſin</hi> had not been in the world: for death is the re<g ref="char:EOLhyphen"/>ward of <hi>ſin,</hi> and therfore reigneth over none, but thoſe which <hi>ſin</hi> hath dominion over, though not <hi>tranſgreſſors</hi> after the ſame manner that <hi>Adam tranſgreſſed.</hi> Thus the Apo<g ref="char:EOLhyphen"/>ſtle teacheth, and by this we may learne, that no Infants are without <hi>ſin.</hi>
+            </p>
+            <pb n="11" facs="tcp:120025:14"/>
+            <p>Now if this will not be yeelded them, that Infants are without <hi>ſin,</hi> then would they know how they can be recon<g ref="char:EOLhyphen"/>ciled unto <hi>God?</hi>
+            </p>
+            <p>Vnto this I anſwer; That unto thoſe which are the <hi>ſeed</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Woman, <hi>God</hi> was reconciled in <hi>Chriſt,</hi> and in him <hi>adopte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> them to be his Children before the world was.</p>
+            <p>And unto ſuch the corruption of their nature ſhall not b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>imputed, God</hi> hath made them accepted in his beloved.</p>
+            <p>But they preſume, that it muſt be yeelded that Infants a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without <hi>ſin,</hi> and being ſo, they would know what need they have to be Baptized?</p>
+            <p>To this I anſwere, That Baptiſme is the ordinance of <hi>God</hi> and therfore is to be uſed of all his people, to that end fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which it was ordained.</p>
+            <p>It was given of <hi>God</hi> to ſet forth and declare what benefit thoſe which be members of <hi>Chriſt</hi> have by his death and re<g ref="char:EOLhyphen"/>ſurrection.</p>
+            <p>That Infants have benefit by the death and reſurrection of <hi>Chriſt,</hi> theſe men will confeſſe, though not aright: <hi>Gods</hi> people therefore muſt Baptiſe their Infants, to declare their <hi>faith</hi> concerning the benefit that they have by <hi>Chriſt.</hi>
+            </p>
+            <p>They give us a needleſſe caution or warning that we ſhould not conclude that becauſe Infants are ſubject to bo<g ref="char:EOLhyphen"/>dily death with their Fathers, that therfore they periſh i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hell.</p>
+            <p>No, we will neither mount ſo high, nor dive ſo deep, as ſo to determine. But this we doe affirme, that if Infants were without <hi>ſin,</hi> bodily death ſhould have no power over them.</p>
+            <p>But they will ſay that bodily death hath power over other <hi>creatures</hi> which be unreaſonable, I grant it: But may a man as lawfully kill an Infant, as he may a Sheep or a Bullock? Surely no; <hi>he which ſheddeth mans bloud, by man his bloud ſhall be ſhed.</hi> Theſe men therfore are very unreaſonable to match Infants and other unreaſonable <hi>creatures</hi> together.</p>
+            <pb n="14" facs="tcp:120025:15"/>
+            <p>But this is monſtrous, that they imagine that unreaſona<g ref="char:EOLhyphen"/>ble <hi>creatures</hi> that are dead and have periſhed, have prepa<g ref="char:EOLhyphen"/>ed for them the <hi>glorious liberty of the Sons of GOD,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall be freed from the bondage of <hi>corruption</hi> when the Sons of GOD ſhall be revealed?</p>
+            <p>And that this is the <hi>glory</hi> and <hi>liberty</hi> wherof Infants ſhalbe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>artakers; yea, and that all other <hi>creatures</hi> ſhall have <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tory</hi> after death for th' afflictions of this life, and not the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>embers of <hi>Chriſt</hi> only? unto this vanity of mind are theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en given up. The <hi>Lord</hi> give them better underſtanding, if it he his will.</p>
+            <p>From 2 <hi>Cor.</hi> 4. 10. and <hi>Rev.</hi> 20. 12, 13. they conclude that Infants ſhall not appear before <hi>Chriſt</hi> to receive judge<g ref="char:EOLhyphen"/>ment, becauſe they have done no works in the fleſh, good or evill.</p>
+            <p>What works Infants doe, GOD knoweth, I know not; <hi>Iohn</hi> the Baptiſt ſprung in his Mothers womb; <hi>Ieremie</hi> was ſanctified in the Womb; <hi>Iacob</hi> and <hi>Eſau</hi> ſtrove in the womb; <hi>God</hi> is wonderfull in his works.</p>
+            <p>Therfore I dare not determine of the doings of Infants: But <hi>Iohn</hi> in his viſion ſaw all the dead both ſmall and great ſtand before <hi>God,</hi> and the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore Infants as I unde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtand. And <hi>Paul</hi> ſaith, <hi>we muſt all be made manifeſt before the judgement ſeat of Chriſt.</hi> I underſtand him to ſpeak of all mankind, and ſo of Infants. And it is too much bold<g ref="char:EOLhyphen"/>nes for any to ſay <hi>none</hi> where the Apoſtle ſaith <hi>all.</hi>
+            </p>
+            <p>But what dare not ignorant zeale doe?</p>
+            <p>Their concluſion is, that Infants have not ſinned, And therfore need no Baptiſme for the remiſſion of ſins.</p>
+            <p>And I anſwere, <hi>that in Adam all mankind ſinned,</hi> and that by meanes thereof all Infants come tainted with ſinne, from the womb: And that therfore there is no hope of ſalvation for any Infants further then they may be reckoned to belong un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Chriſt,</hi> as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing the fruit of ſuch
+<pb n="15" facs="tcp:120025:15"/> branches as are ingraffed in him by Faith: And thoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which be ſuch are to be Baptized, thereby to declare wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> benefit all have by <hi>Chriſt</hi> that are partakers with him; whoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> holineſſe is ſuch, that he ſanctifyeth all that have fellow<g ref="char:EOLhyphen"/>ſhip with him: To whom be glory for ever, <hi>Amen:</hi>
+            </p>
+            <closer>
+               <signed>JOHN WILKINSON</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
